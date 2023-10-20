@@ -1,0 +1,12 @@
+1) génération de la ligne en utilisant un nombre binaire
+2) vérification des règles sur la ligne
+	- différent des autres lignes
+	-nombre 0 et 1 à la suite (max 2)
+	-nombre de 0 = nombre 1
+3) vérifier l'intégration de la ligne dans la matrice
+	-nombre 0 et 1 à la suite dans chaque colonne
+	-nombre de 0 <= taille/2  et 1 <= taille/2
+	
+-pour l'avant dernière ligne vérifier choisir une ligne tel que les colonnes sont différentes
+
+
